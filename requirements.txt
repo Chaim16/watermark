@@ -1,9 +1,0 @@
-PyQt5>=5.15
-numpy>=1.24
-opencv-python>=4.8
-Pillow>=10.0
-torch>=2.0
-torchvision>=0.15
-lama-cleaner>=0.39
-PyYAML>=6.0
-tqdm>=4.65
